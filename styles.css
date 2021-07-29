@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 5rem;
+}
+body {
+    margin: 2rem;
+    font-family: 'Noto Sans', sans-serif;
+    line-height: 1.5;
+    background-color: #121212;
+    color: white;
+}
+.horizontalLine {
+    background-color: indianred;
+    min-height: 2px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
