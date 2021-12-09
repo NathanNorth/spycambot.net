@@ -3,6 +3,9 @@ h1 {
     margin-bottom: 50px;
     font-size: 5rem;
 }
+h2{
+    font-size: 2rem;
+}
 body {
     margin: 2rem;
     font-family: 'Noto Sans', sans-serif;
@@ -10,9 +13,29 @@ body {
     background-color: #121212;
     color: white;
 }
+a {
+    text-align: center;
+    color: indianred;
+}
+.logoPair {
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
 .horizontalLine {
     background-color: indianred;
     min-height: 2px;
     margin-bottom: 10px;
     margin-top: 10px;
+}
+.add {
+    font-size: 4rem;
+    background-color: indianred;
+    color: white;
+    padding: 1rem;
+    border-radius: 20px
+}
+.center {
+    justify-content: center;
+    display: flex
 }
