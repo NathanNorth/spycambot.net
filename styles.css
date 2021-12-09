@@ -17,6 +17,9 @@ a {
     text-align: center;
     color: indianred;
 }
+img {
+    align-self: center;
+}
 .logoPair {
     display: flex;
     align-self: center;
@@ -29,6 +32,7 @@ a {
     margin-top: 10px;
 }
 .add {
+    width: 80%;
     font-size: 4rem;
     background-color: indianred;
     color: white;
