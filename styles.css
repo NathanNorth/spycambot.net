@@ -4,6 +4,7 @@ h1 {
     font-size: 5rem;
 }
 h2{
+    text-align: center;
     font-size: 2rem;
 }
 body {
@@ -32,7 +33,6 @@ img {
     margin-top: 10px;
 }
 .add {
-    width: 80%;
     font-size: 4rem;
     background-color: indianred;
     color: white;
